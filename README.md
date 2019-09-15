@@ -1,4 +1,4 @@
 # Tax-Calculator
-Tax calculations base on postal code
-save the file under C:\Users\(Your Name)\source\repos
-change the connection string AttachDbFilename=C:\Users\(The folder where its save under users)\source\repos\Tax_Calculator\Tax_Calculator\App_Data\calculated_tax.mdf;Integrated Security = True"
+Tax calculations base on postal code.
+Create a MVC WEB APPLICATION project and call it Tax_Calculator.
+Follow the instructions for each file and you will be set.
